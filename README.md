@@ -32,5 +32,5 @@ Busco unir minha formação em Ciência da Computação com aplicações prátic
 
 ### 🌐 Conecte-se Comigo
 
-* [[[**LinkedIn**] - (Link para seu perfil)](https://www.linkedin.com/in/felipe-furlan-755a66309/?trk=opento_sprofile_topcard)]
+* [[[**LinkedIn**] - (Link do perfil)](https://www.linkedin.com/in/felipe-furlan-755a66309/?trk=opento_sprofile_topcard)]
 * felipefurlan53@gmail.com
